@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Sivasubramanian S
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=Data+Analyst;Software+Developer+%7C+FrontEnd+Developer;Focus+on+my+Future;SQL+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=Data+Analyst;FullStack+Developer;Focus+on+my+Future;SQL+Developer" alt="Typing SVG" />
 </p>
 
 -----
@@ -15,13 +15,13 @@
 
 ## 🌟 About Me
 
-- 💡  Passionate about Data Analysis using tools like Power BI, Tableau, Statitics, MongoDB, MySQL.
-- 🚀 Enthusiast Front-End Developer using HTML, CSS, JavaScript, and modern frameworks.
-- 💻   Exploring Python libraries like Pandas for data manipulation and NumPy for numerical computations
+- 💡 Passionate about Data Analysis using tools like Power BI, Tableau, Statitics, MongoDB, MySQL.
+- 🚀 Enthusiast Full Stack  Developer using HTML, CSS,ReactJS for front-end development along with php,MongoDB for backEnd development.
+- 💻 Exploring Python libraries like Pandas for data manipulation and NumPy for numerical computations
 - 🌱 Constantly learning new tools, technologies, and frameworks to stay updated in data analytics and web development.
 - 🤝 Open to collaboration on innovative projects and eager to learn from others in the community.
 - 🎯 Committed to writing clean, efficient, and maintainable code.
-- ✉️  You can reach me at shivasubramanian3332@gmail.com. I'll reply promptly.
+- ✉️ You can reach me at shivasubramanian3332@gmail.com. I'll reply promptly.
 
 
 ## 🚀 Tech Arsenal
