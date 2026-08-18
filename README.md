@@ -41,13 +41,13 @@
 
 <p align="center">
   <a href="#" title="Languages & Tools">
-    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=c#,java,javascript,html,css" />
   </a>
 </p>
 
 <p align="center">
   <a href="#" title="Databases & Tools">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,react,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,react,aws" />
 
   </a>
 </p>
