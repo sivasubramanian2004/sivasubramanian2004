@@ -40,15 +40,20 @@
 ## 🚀 Tech Arsenal
 
 <p align="center">
-  <a href="#" title="Languages & Tools">
-    <img src="https://skillicons.dev/icons?i=c#,java,javascript,html,css" />
+  <a href="#" title=".NET Backend Development">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
   </a>
 </p>
 
 <p align="center">
-  <a href="#" title="Databases & Tools">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,react,aws" />
+  <a href="#" title="Web Technologies">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="#" title="Databases & DevOps">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,azuredevops" />
   </a>
 </p>
 
