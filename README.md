@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="#" title="Databases & DevOps">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,azuredevops,aws" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,aws,azuredevops" />
   </a>
 </p>
 
