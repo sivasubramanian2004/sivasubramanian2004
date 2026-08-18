@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Sivasubramanian S
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=Data+Analyst;FullStack+Developer;Focus+on+my+Future;SQL+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=BackEnd+Developer;Dot+Net+Developer;Focus+on+my+Future;SQL+Developer" alt="Typing SVG" />
 </p>
 
 -----
@@ -15,13 +15,26 @@
 
 ## 🌟 About Me
 
-- 💡 Passionate about Data Analysis using tools like Power BI, Tableau, Statitics, MongoDB, MySQL.
-- 🚀 Enthusiast Full Stack  Developer using HTML, CSS,ReactJS for front-end development along with php,MongoDB for backEnd development.
-- 💻 Exploring Python libraries like Pandas for data manipulation and NumPy for numerical computations
-- 🌱 Constantly learning new tools, technologies, and frameworks to stay updated in data analytics and web development.
-- 🤝 Open to collaboration on innovative projects and eager to learn from others in the community.
-- 🎯 Committed to writing clean, efficient, and maintainable code.
-- ✉️ You can reach me at shivasubramanian3332@gmail.com. I'll reply promptly.
+💻 Passionate about **.NET Backend Development** using **C# and ASP.NET Core Web API**.
+
+🚀 Skilled in building backend applications with **Clean Architecture**, **OOP principles**, and maintainable, scalable code.
+
+🗄️ Experienced with relational databases including **MySQL** and **SQL Server**, with a focus on database design and efficient data access.
+
+🔐 Working with **JWT Authentication** to build secure and reliable Web APIs.
+
+🛠️ Familiar with **GitHub** and **Azure DevOps** for version control, collaboration, and CI/CD workflows.
+
+🌐 Have a strong foundation in **HTML, CSS, and JavaScript** to understand and integrate frontend requirements with backend services.
+
+🌱 Constantly learning and improving my skills in **.NET, backend development, software architecture, and modern development practices**.
+
+🤝 Open to collaborating on innovative projects and learning from experienced developers.
+
+🎯 Committed to writing **clean, efficient, scalable, and maintainable code**.
+
+✉️ You can reach me at **[shivasubramanian3332@gmail.com](mailto:shivasubramanian3332@gmail.com)**.
+
 
 
 ## 🚀 Tech Arsenal
